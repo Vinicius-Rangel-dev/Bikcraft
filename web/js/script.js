@@ -15,3 +15,11 @@ new SimpleSlide({
 if (window.SimpleAnime) {
   new SimpleAnime();
 }
+if (window.SimpleForm) {
+  new SimpleForm ({
+    form: "formphp",
+    button: "#enviar",
+    erro: "",
+    sucesso: "",
+  });
+}
