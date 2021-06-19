@@ -1,9 +1,10 @@
+/*CONTATO*/
+
 .interna_contato {
   background: url("../img/bg-contato.jpg") no-repeat center;
   background-size: cover;
 }
 
-/*CONTATO*/
 .contato {
   padding: 40px 0;
 }
