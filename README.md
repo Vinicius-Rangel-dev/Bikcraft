@@ -17,5 +17,5 @@
 ## 🖥️ Demonstração
 ### Acesse aqui:
 
-<a href="https://stupefied-leavitt-79e55c.netlify.app"><img src="https://github.com/Vinicius-Rangel-dev/Bikcraft/blob/6b90e58029cec9581d7bfe2a85d4cc8ef9f9cdab/imagem_2021-07-30_162701.png"></a>
-Acesse o Bikcraft clicando <a href="https://stupefied-leavitt-79e55c.netlify.app">aqui.</a>
+<a href="https://bikcraft-vinicius.netlify.app"><img src="https://github.com/Vinicius-Rangel-dev/Bikcraft/blob/6b90e58029cec9581d7bfe2a85d4cc8ef9f9cdab/imagem_2021-07-30_162701.png"></a>
+Acesse o Bikcraft clicando <a href="https://bikcraft-vinicius.netlify.app">aqui.</a>
