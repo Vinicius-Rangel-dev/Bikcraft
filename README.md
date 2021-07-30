@@ -13,5 +13,7 @@
 - **CSS3**
 - **JavaScript** (plugins: [SimpleSlide](https://github.com/origamid/simple-slide), [SimpleAnime](https://github.com/origamid/simple-anime) e [SimpleForm](https://github.com/origamid/simple-form))
 - **PHP** (envio de e-mail com [SendGrid](https://sendgrid.com/))
-- **SASS**
-- **Scout App** (compilador do SASS)
+
+## 🖥️ Demonstração
+### Acesse aqui:
+<a href="https://stupefied-leavitt-79e55c.netlify.app">Bikcraft</a>
