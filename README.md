@@ -6,7 +6,7 @@
 </div>
  
  ## 📖 Sobre
- Bem-vindo ao Bikcraft. Projeto de conclusão do curso de Web Design da Origamid, site responsivo criado em HTML5, CSS3 e JavaScript puro. Foi utilizado Visual AdobeXD para confecção do Layout e Wireframe. Pude aprender conceitos de UI/UX, Cores, Tipografia, CSS Grid layout, Usabilidade, SEO, e muito mais.
+ Bem-vindo ao Bikcraft. Projeto de conclusão do curso de Web Design da Origamid, site responsivo criado em HTML5, CSS3 e JavaScript puro. Foi utilizado AdobeXD para confecção do Layout e Wireframe. Pude aprender conceitos de UI/UX, Cores, Tipografia, CSS Grid layout, Usabilidade, SEO, e muito mais.
  
  ## 🚀 Tecnologias e ferramentas utilizadas
 - **HTML5**
@@ -15,6 +15,5 @@
 - **PHP** (envio de e-mail com [SendGrid](https://sendgrid.com/))
 
 ## 🖥️ Demonstração
-
 ### Acesse aqui:
 <a href="https://stupefied-leavitt-79e55c.netlify.app">Bikcraft</a>
